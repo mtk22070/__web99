@@ -1,10 +1,20 @@
-## class_221105
+##### class_221119
 
 
-learning python variable
+para1
 
-learning python condiction
+para1
+    
+    -list1
+    -list2
+    -list3
+    -list4
 
-update
+1. list1
+2. list2
+3. list3
+4. list4
+
+
 
 
